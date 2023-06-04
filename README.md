@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm SeN[a]ToR</h1>
 <h3 align="center">A passionate web developer from Iran</h3>
 <br>
-![2](https://github.com/mehrshaduv/mehrshaduv/assets/121823548/c6fc9337-d24b-468d-9c88-8737215d59d2)
+<img
+  src="https://github.com/mehrshaduv/mehrshaduv/assets/121823548/c6fc9337-d24b-468d-9c88-8737215d59d2"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrshaduv&label=Profile%20views&color=0e75b6&style=flat" alt="mehrshaduv" /> </p>
 
